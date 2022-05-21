@@ -35,7 +35,7 @@ The charter can be viewed [here](https://docs.google.com/document/d/1sCsD-QiLkXr
 |                | Tak                |                           | maddog_xyz#7920     |                  |
 | **Governance** | Matt Galligan (mg) | [@mg0716](https://github.com/mg0716)            | mg#9999          | [@mg](https://twitter.com/mg)     |
 |                | Matt Joyal (MJ)    | [@mattjoyal](https://github.com/mattjoyal)      | mattjoyal#0985   | [@matt_joyal](https://twitter.com/Matt_Joyal) |
-|                | May                |                           | may#1896            |         |
+|                | May                | [@myapdx](https://github.com/myapdx)            | may#1896         | [@myapdx](https://twitter.com/myapdx)   |
 | **Programs**   | Brian              |                           | rumple#7555         |         |
 |                | Ewal               |                           | ewal#6127           |         |
 |                | Todd               |                           | wiz#9000            |         |
